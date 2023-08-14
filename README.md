@@ -1,11 +1,28 @@
 <h1 align="center">Hi 👋, I'm Golam mostafa shuvo</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
+<p>
+I have been a web developer for more than 1 year. I have started learning web development
+out of self-interest. I have excelled in HTML, CSS, and JavaScript. Then I evolved myself
+into React JS. After learning React, I learned Node Js and Express. I am capable of using 
+Google Firebase Authentication. I am skilled in using JSON Web Token authorization. For database applications, I am proficient in using Mongo DB.
+<br/><br/>
+I have worked on different projects where I implemented my learned skills. 
+<br/><br/>
+To talk a little bit about myself, I am easy and flexible to work with. I think I am a
+hard-working person. I like reading books, going on tours ✈️, and watching tv series 📺 </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="gm-shuvo" /> </p>
+- 🌱 I’m currently learning **PostgreSQL, Next JS, Redux, Typescript**
 
-- 💬 Ask me about **JavaScript, React.js, Nodes.js, Html and Css **
+- 👨‍💻 All of my projects are available at my <a href="https://gmshuvo.vercel.app/" target="_blank" rel="noreferrer" >Portfolio </a>
 
-- 📫 How to reach me **gm.shuvo.ru.cse@gmail.com**
+- 💬 Ask me about **MERN Stack, JavaScript, web development, and Philosophy**
+
+- 📫 Email me to **gm.shuvo.ru.cse@gmail.com**
+
+- 📄 Get My Resume from here: <a href="https://drive.google.com/file/d/12DDiyoZMKkDbAIKU-tSnooozZ9_9Hs6q/view?usp=drive_link" target="_blank" rel="noreferrer">Resume Link</a>
+
+- 📄 And my CV from here: <a href="https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing" target="_blank" rel="noreferrer">CV Link</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
