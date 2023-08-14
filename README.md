@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Golam mostafa shuvo</h1>
+<h1 align="center">Hi 👋, I'm Golam Mostafa Shuvo</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p>
 I have been a web developer for more than 1 year. I have started learning web development
 out of self-interest. I have excelled in HTML, CSS, and JavaScript. Then I evolved myself
