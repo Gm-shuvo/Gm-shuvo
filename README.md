@@ -4,19 +4,12 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br/>
 <p>
-I am an experienced web developer with over 2 years of dedicated practice in the field. My journey in web development began out of self-interest, and since then, I have honed my skills in HTML, CSS, and JavaScript. Through continuous learning and dedication, I have grown to become proficient in React JS, a front-end library that empowers modern web applications.
+  I have been a web developer for more than 1 year. I have started learning web development out of self-interest. I have excelled in HTML, CSS, and JavaScript. Then I evolved into React JS. After learning React, I learned Node Js and Express. I am capable of using Google Firebase Authentication. I am skilled in using JSON Web Token authorization. For database applications, I am proficient in using Mongo DB.
 
-Expanding my skill set, I delved into server-side technologies like Node.js and Express, which allowed me to build robust and scalable backends. With expertise in Google Firebase Authentication, I can implement secure and seamless user authentication flows. My proficiency extends to JSON Web Token authorization, further ensuring data integrity and user access control.
+I have worked on different projects where I implemented my learned skills.
 
-In terms of database management, I am adept in both MongoDB and MySQL. These skills enable me to design efficient data storage solutions that cater to diverse application needs.
-
-Throughout my journey, I have applied my acquired knowledge to various projects, showcasing my ability to deliver tangible results. These experiences have not only strengthened my technical prowess but have also developed my problem-solving skills and attention to detail.
-
-When it comes to collaboration, I pride myself on being an approachable and adaptable team member. I bring a strong work ethic to every project, ensuring that I contribute effectively to the team's goals.
-
-Beyond coding, I find joy in intellectual pursuits such as reading books that broaden my horizons. I also have a passion for travel, as exploring new places enriches my perspective. Additionally, I enjoy indulging in well-crafted TV series that offer both entertainment and insights.
-
-Thank you for taking the time to learn a bit about me. I am excited to continue growing and contributing in the field of web development.</p>
+To talk a little bit about myself, I am easy and flexible to work with. I think I am a hard-working person. I like reading books, going on tours ✈️, and watching tv series 📺
+</p>
 
 
 - 🌱 I’m currently learning **PostgreSQL, Next JS, Redux, Typescript**
