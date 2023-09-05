@@ -21,7 +21,7 @@ To talk a little bit about myself, I am easy and flexible to work with. I think 
 
 - 📄 Get My Resume from here: <a href="https://drive.google.com/file/d/12DDiyoZMKkDbAIKU-tSnooozZ9_9Hs6q/view?usp=drive_link" target="_blank" rel="noreferrer">Resume Link</a>
 
-- 📄 And my CV from here: <a href="https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing" target="_blank" rel="noreferrer">CV Link</a>
+- 📄 And my CV from here: <a href="https://drive.google.com/file/d/12DDiyoZMKkDbAIKU-tSnooozZ9_9Hs6q/view?usp=drive_link" target="_blank" rel="noreferrer">CV Link</a>
 
 
 <h3 align="left">Connect with me:</h3>
